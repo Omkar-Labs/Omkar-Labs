@@ -176,10 +176,8 @@ My target skill set includes:
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
-* Portfolio: Coming Soon
-
+* GitHub: https://github.com/Omkar-Labs
+* LinkedIn: https://www.linkedin.com/in/omkar-tripathi/
 ---
 
 <div align="center">
